@@ -1,0 +1,17 @@
+.features {
+
+}
+
+.features h3 {
+  font-weight: bold;
+  padding-bottom: 10px;
+  opacity: .88;
+}
+
+.features p {
+  opacity: .75;
+}
+
+.features img {
+  width: 100px;
+}
